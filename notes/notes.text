@@ -25,3 +25,6 @@ index.css
         }
         }
     at 0%, 20% and so on line 15 we're going to translate to 0 on the Y axis but at 40% and 60% were gonna translate at x amount of pixels... 
+
+IMPORTS!!!! 
+    import MenuIcon from '@material-ui/icons/Menu'; google===>material ui

@@ -12,6 +12,10 @@ body {
   /* this gets rid of an unwanted scroll bar (x axis oriented)...  */
 }
 
+a {
+  text-decoration: none;
+}
+
  @keyframes animateDown {
    0%, 20%, 50%, 80%, 100% {
      transform: translateY(0);
