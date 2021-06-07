@@ -31,3 +31,9 @@ IMPORTS!!!!
 
 
     131
+
+REDUX!!!! 
+    SLICE===> 
+        imagine redux is a whole state of data and a slice is just one slice... one piece of the whole pizza.. 
+        data shared across all the pages on the website.... 
+    
